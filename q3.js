@@ -1,0 +1,7 @@
+/*  ANSWER
+    a. No
+    b. Yes
+    c. No
+    d. Yes
+    e. Yes
+*/
